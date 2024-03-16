@@ -7,4 +7,9 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="signup_area_notification_color_blue">#01313d</color>
+    <color name="light_blue">#0F6B82</color>
+    <color name="blue">#000F14</color>
+
+
 </resources>

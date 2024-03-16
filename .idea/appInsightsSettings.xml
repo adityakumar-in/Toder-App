@@ -27,10 +27,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.adityadev.toder" />
+                  <option name="mobileSdkAppId" value="1:623205001622:android:ad91c8fd4a2104d15115b7" />
+                  <option name="projectId" value="toder-app" />
+                  <option name="projectNumber" value="623205001622" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />

@@ -2,4 +2,8 @@
 <resources>
 
     <style name="Theme.Toder" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.SignUpNotificationAreaColor" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/signup_area_notification_color_blue</item>
+        <item name="android:background">@color/signup_area_notification_color_blue</item>
+    </style>
 </resources>

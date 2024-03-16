@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "623205001622",
+    "project_id": "toder-app",
+    "storage_bucket": "toder-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623205001622:android:ad91c8fd4a2104d15115b7",
+        "android_client_info": {
+          "package_name": "com.adityadev.toder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623205001622-ho4d45ni6rigcmkce0tvcg624l1lla4t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adityadev.toder",
+            "certificate_hash": "dda5d95e27ae4f8649fe18eb39eaa4b7865ba6d5"
+          }
+        },
+        {
+          "client_id": "623205001622-mtag1iqg8p41kpu0dalhdicjl1be1soh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwmqFYSeCNz04OaqFxYhckeMrYlcnqM7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623205001622-mtag1iqg8p41kpu0dalhdicjl1be1soh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
